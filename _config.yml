@@ -23,7 +23,7 @@ repository               : "xannnimal/xannnimal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot_opms.jpg"
   name             : "Xan McPherson"
   pronouns         : "she/her"  
   bio              : "MEG physicist studying speech, watercolor artisr"
