@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-UW-teaching.md
 venue: "University 1, Department"
-date: 2022 to 2025
+date: 2022
 location: "Seattle, Washington"
 ---
 
