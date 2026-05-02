@@ -36,8 +36,11 @@ Topics included: Develop a basic familiarity with classical field theory, with a
 ---
 Topics included: Charges at rest and in motion, dielectric and magnetic media, electromagnetic waves, relativity and electromagnetism, physical optics
 
----
 
 **PHYS329 Mathematical Methods of Classical Mechanics** (Spring 2025)
+---
 Topics included: Mathematical methods applied to classical mechanics, Lagrangian mechanics, gravity, orbits
+
+
+---
 
