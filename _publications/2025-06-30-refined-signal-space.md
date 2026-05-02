@@ -9,6 +9,6 @@ venue: 'Physics in Medicine and Biology'
 
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6560/ade6ba'
 
-citation: 'McPherson et al. (2025). &quot;Refined signal space separation methods for on-scalp MEG.&quot; <i>Physics in Medicine and Biology</i>. 1(1).'
+citation: 'McPherson et al. (2025). &quot;Refined signal space separation methods for on-scalp MEG.&quot; <i>Physics in Medicine and Biology</i>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
