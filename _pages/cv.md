@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 For more information, full CV can be found [here](../files/Alexandria_McPherson___CV.pdf)
 
 Education
