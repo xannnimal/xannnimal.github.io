@@ -1,6 +1,5 @@
 ---
-title: "Wedding Portraits"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/20250930_103528.jpg'>"
+title: "Landscape Commission"
+excerpt: "Captur your favorite place <br/><img src='/images/1000043465.jpg'>"
 collection: portfolio
 ---
-Watercolor portraits of your special day!
