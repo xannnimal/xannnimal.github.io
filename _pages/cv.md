@@ -59,20 +59,6 @@ with device physics equations
 * Skills: client interactions, sample construction, vacuum chamber operation, image analysis,
 data analysis, spectrophotometry, photoluminescence, macro digital photography, infrared
 photography, simulation development, sample tracking, reporting
-
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Groups and Affiliations
 ======
